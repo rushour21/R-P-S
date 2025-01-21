@@ -1,0 +1,14 @@
+/*let rulebtn = document.querySelector('.btn-r');
+rulebtn.addEventListener('click', (r) => {
+    let rules = document.querySelectorAll('.rule');
+    rules.forEach(rule => {
+        rule.style.display = 'block';
+    });
+})
+let ruleicon = document.querySelector('.close-icon');
+ruleicon.addEventListener('click', () => {
+    let rules = document.querySelectorAll('.rule');
+    rules.forEach(rule => {
+        rule.style.display = 'none';
+    })
+})*/
